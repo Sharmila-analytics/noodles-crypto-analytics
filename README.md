@@ -28,4 +28,4 @@ Documented core objects include `DimCurrency`, `DimDate`, `DimPlatform` and `Fac
 Follow `docs/technical-runbook.md`. Add actual connection details, refresh duration, and schedule only after verifying them. Never commit secrets.
 
 ## Demo
-Add the demo-video URL after recording and uploading it.
+Watch the 10-minute project demonstration: Noodles Crypto Analytics – Demo Video
