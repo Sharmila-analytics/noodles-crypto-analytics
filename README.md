@@ -29,3 +29,4 @@ Follow `docs/technical-runbook.md`. Add actual connection details, refresh durat
 
 ## Demo
 Watch the 10-minute project demonstration: Noodles Crypto Analytics – Demo Video
+https://youtu.be/HSOFADgxA3c
